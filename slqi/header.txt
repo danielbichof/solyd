@@ -1,0 +1,7 @@
+POST /cat.php HTTP/1.1
+Host: advanced.bancocn.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Origin: http://advanced.bancocn.com
+X-Forwarded-For:172.27.232.217, 10.0.2.2
+Cookie:cf_clearance=w1SuK0leYj.AKkArR3I2X9n_lUng00_IjZGqkTeDuBM-1671101684-0-150; PHPSESSID=fj5pkdnmcrdknr7ltkddp9htm5

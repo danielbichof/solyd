@@ -1,0 +1,13 @@
+assets
+css
+adm
+admin
+painel
+public
+share
+users
+home
+uploads
+cgi
+search
+busca
