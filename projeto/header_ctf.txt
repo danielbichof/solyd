@@ -1,4 +1,0 @@
-Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
-Connection:keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
-Cookie: csrftoken=ZOOXCeIYNQzUyqp2ZtLVvmDCyLMtSJfTzvF2DOWIhJTthxrzUjE1AkbZUBsO0Mui; _fbp=fb.2.1664502136134.1664318882; _ga=GA1.1.172129506.1664502136; _ga_7GJPLJ7LT5=GS1.1.1669591373.14.1.1669591380.0.0.0; sessionid=he2ump8uk9dzbfe0lbyyg9tt0csccxh6

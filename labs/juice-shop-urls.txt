@@ -1,0 +1,2 @@
+http://localhost:3000/ftp/
+http://localhost:3000/api-docs/
